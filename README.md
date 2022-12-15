@@ -17,4 +17,4 @@ The program reads Matlab files in bytecodes folder `/bytecodes/byte_file.m`. Thi
 
 
 ## Author
-- Gerald Juwah: <a href= "https://twitter.com/Gee_103"> Twitter </a> and <a href= "https://github.com/Gejix"> Github </a>
+- Abayomi Adeleke:<a href= "https://github.com/yomiblack"> Github </a>
